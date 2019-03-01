@@ -1,8 +1,9 @@
-# ThingPulse ESPaper Weather Station (mod Version with 3 days forecast)
+# ThingPulse ESPaper Weather Station OpenWeatherMap 
+(mod Version with 3 days forecast)
 
 [![ThingPulse logo](https://thingpulse.com/assets/ThingPulse-w300.svg)](https://thingpulse.com)
 
-ESPaper Weather Station with a passive e-paper display (mod Version with 3 days forecast)
+ESPaper Weather Station with a passive e-paper display version with 3 days forecast. Runs with original ThingPulse hardware offering as well as with AZSMZ epaper clone. Case can be easly printed on a 3d printer: https://www.thingiverse.com/thing:3438179
 
 [![ThingPulse ESPaper Kits](https://thingpulse.com/wp-content/uploads/2018/01/FrontWeatherAppReflection-e1515916701463.jpg)](https://thingpulse.com/product-category/espaper-epaper-kits/)
 

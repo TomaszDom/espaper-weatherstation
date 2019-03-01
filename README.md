@@ -1,8 +1,8 @@
-# ThingPulse ESPaper Weather Station
+# ThingPulse ESPaper Weather Station (mod Version with 3 days forecast)
 
 [![ThingPulse logo](https://thingpulse.com/assets/ThingPulse-w300.svg)](https://thingpulse.com)
 
-ESPaper Weather Station with a passive e-paper display
+ESPaper Weather Station with a passive e-paper display (mod Version with 3 days forecast)
 
 [![ThingPulse ESPaper Kits](https://thingpulse.com/wp-content/uploads/2018/01/FrontWeatherAppReflection-e1515916701463.jpg)](https://thingpulse.com/product-category/espaper-epaper-kits/)
 

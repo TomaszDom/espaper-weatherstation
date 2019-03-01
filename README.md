@@ -5,6 +5,8 @@
 
 ESPaper Weather Station with a passive e-paper display version with 3 days forecast. Runs with original ThingPulse hardware offering as well as with AZSMZ epaper clone. Case can be easly printed on a 3d printer: https://www.thingiverse.com/thing:3438179
 
+https://github.com/3KUdelta/espaper-weatherstation/blob/master/ESPaper_Weather_Station.jpg?raw=true
+
 [![ThingPulse ESPaper Kits](https://thingpulse.com/wp-content/uploads/2018/01/FrontWeatherAppReflection-e1515916701463.jpg)](https://thingpulse.com/product-category/espaper-epaper-kits/)
 
 ## Service level promise

@@ -3,7 +3,7 @@
 
 ESPaper Weather Station with a passive e-paper display version with 3 days forecast. 
 
-[![ThingPulse ESPaper_mod](https://github.com/3KUdelta/espaper-weatherstation/blob/master/ESPaper_Weather_Station.jpg)](https://thingpulse.com/product-category/espaper-epaper-kits/)
+[![ThingPulse ESPaper_mod](https://github.com/3KUdelta/espaper-weatherstation/blob/master/ESPaper_Weather_Station.jpg)](https://github.com/3KUdelta/espaper-weatherstation)
 
 Runs with original ThingPulse hardware offering (https://thingpulse.com/product-category/espaper-epaper-kits/) as well as with AZSMZ epaper clone (https://www.aliexpress.com/item/AZSMZ-EPAPER-2-9-display-Esp8266-WiFi-EINK-YahooApi-open-source-github-espaper-weatherstation/32843106757.html).
 

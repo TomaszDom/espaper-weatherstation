@@ -20,7 +20,7 @@ See more at http://blog.squix.ch
 
 #if LANG == 'EN'
   const char TEXT_REFRESH_BUTTON[] PROGMEM     = "REFRESH";
-  const char TEXT_CONFIG_BUTTON[] PROGMEM      = "CONFIG + RST";
+  const char TEXT_CONFIG_BUTTON[] PROGMEM      = "Settings: Hold left + short right";
   const char TEXT_UPDATED[] PROGMEM            = "Updated:";
   const char TEXT_SUN[] PROGMEM                = "Sun:";
   const char TEXT_MOON[] PROGMEM               = "Moon:";
@@ -28,15 +28,15 @@ See more at http://blog.squix.ch
                                                   "Full Moon", "Waning Gibbous", "Third quarter", "Waning Crescent"};
 #elif LANG == 'DE'
   const char TEXT_REFRESH_BUTTON[] PROGMEM     = "AKTUALISIEREN";
-  const char TEXT_CONFIG_BUTTON[] PROGMEM      = "CONFIG + RST";
-  const char TEXT_UPDATED[] PROGMEM            = "Aktualisiert:";
+  const char TEXT_CONFIG_BUTTON[] PROGMEM      = "Settings: Links halten + rechts kurz";
+  const char TEXT_UPDATED[] PROGMEM            = "Aktualisiert: ";
   const char TEXT_SUN[] PROGMEM                = "Sonne:";
   const char TEXT_MOON[] PROGMEM               = "Mond:";
   const String MOON_PHASES[]                   = {"Neumond", "erstes Viertel", "zunehmender Mond", "zweites Viertel",
                                                   "Vollmond", "drittes Viertel", "abnehmender Mond", "letztes Viertel"};
 #elif LANG == 'FR'
   const char TEXT_REFRESH_BUTTON[] PROGMEM     = "ACTUALISER";
-  const char TEXT_CONFIG_BUTTON[] PROGMEM      = "CONFIG + RST";
+  const char TEXT_CONFIG_BUTTON[] PROGMEM      = "Settings: Tenir gauche + droit court";
   const char TEXT_UPDATED[] PROGMEM            = "Mise à jour ";
   const char TEXT_SUN[] PROGMEM                = "Soleil:";
   const char TEXT_MOON[] PROGMEM               = "Lune:";

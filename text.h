@@ -41,5 +41,13 @@ See more at http://blog.squix.ch
   const char TEXT_SUN[] PROGMEM                = "Soleil:";
   const char TEXT_MOON[] PROGMEM               = "Lune:";
   const String MOON_PHASES[]                   = {"nouvelle lune", "premier croissant", "premier quartier", "lune croissante",
-                                                  "pleine lune", "lune décroissante", "dernier quartier", "dernier croissant"};  
+                                                  "pleine lune", "lune décroissante", "dernier quartier", "dernier croissant"};
+#if LANG == 'PL'
+  const char TEXT_REFRESH_BUTTON[] PROGMEM     = "ODŚWIEŻ";
+  const char TEXT_CONFIG_BUTTON[] PROGMEM      = "Ustaw.: Trzymaj lewy + krótko prawy";
+  const char TEXT_UPDATED[] PROGMEM            = "Zaktualizowano:";
+  const char TEXT_SUN[] PROGMEM                = "Słońce:";
+  const char TEXT_MOON[] PROGMEM               = "Księżyc:";
+  const String MOON_PHASES[]                   = {"Nów", "Przybywający sierp", "Pierwsza kwadra", "Przybywający garb",
+                                                  "Pełnia", "Ubywający garb", "Ostatnia kwadra", "Ubywający sierp"};
 #endif
